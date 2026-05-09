@@ -42,7 +42,7 @@ const initialStudents =[
 
    {
      id:5,
-    name: "Mohammed Haneeya",
+    name: "Mohammad Haneeya",
     track: "Mobile Development",
     bio: "Shipping cross-platform mobile apps with React Native and Flutter. ",
     skillLevel: "Beginner",
